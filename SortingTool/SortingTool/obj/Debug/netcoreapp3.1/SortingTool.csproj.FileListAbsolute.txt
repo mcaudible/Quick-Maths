@@ -1,0 +1,13 @@
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\bin\Debug\netcoreapp3.1\SortingTool.exe
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\bin\Debug\netcoreapp3.1\SortingTool.deps.json
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\bin\Debug\netcoreapp3.1\SortingTool.runtimeconfig.json
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\bin\Debug\netcoreapp3.1\SortingTool.runtimeconfig.dev.json
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\bin\Debug\netcoreapp3.1\SortingTool.dll
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\bin\Debug\netcoreapp3.1\SortingTool.pdb
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\obj\Debug\netcoreapp3.1\SortingTool.csprojAssemblyReference.cache
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\obj\Debug\netcoreapp3.1\SortingTool.AssemblyInfoInputs.cache
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\obj\Debug\netcoreapp3.1\SortingTool.AssemblyInfo.cs
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\obj\Debug\netcoreapp3.1\SortingTool.csproj.CoreCompileInputs.cache
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\obj\Debug\netcoreapp3.1\SortingTool.dll
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\obj\Debug\netcoreapp3.1\SortingTool.pdb
+C:\Users\abnmbj1\source\repos\SortingTool\SortingTool\obj\Debug\netcoreapp3.1\SortingTool.genruntimeconfig.cache
